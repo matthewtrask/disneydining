@@ -1,9 +1,0 @@
-{
-    "require":{
-        "slim/slim": "2.6.*",
-        "slim/views": "0.1.*",
-        "twig/twig": "1.19.*",
-        "phpmailer/phpmailer": "5.2.*",
-        "monolog/monolog": "1.14.*"
-    }
-}
